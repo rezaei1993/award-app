@@ -14,12 +14,12 @@ This Laravel application is designed to implement a lucky wheel feature for attr
 # Installation
 - `composer install`
 - `php artisan migrate:fresh --seed`
-- `php artisan test --filter Modules\\Award\\tests\\Feature\\V1\\Front\\AwardTest`
 
 ## Testing
 
 Unit tests have been written for this project and can be found in the path: \
-`` Modules\Award\tests\Feature\V1\Front ``
+`php artisan test --filter Modules\\Award\\tests\\Feature\\V1\\Front\\AwardTest`
+
 
 
 

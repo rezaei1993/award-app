@@ -20,8 +20,8 @@ This Laravel application is designed to implement a lucky wheel feature for attr
 Unit tests have been written for this project and can be found in the path: \
 `php artisan test --filter Modules\\Award\\tests\\Feature\\V1\\Front\\AwardTest`
 
-## Award App API Endpoints
-To access the API endpoints, navigate to the following path: \
+## API Endpoint
+To access the API endpoint, navigate to the following path: \
 ```\Modules\Award\routes\V1\api.php```
 
 
